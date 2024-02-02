@@ -141,6 +141,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oneplus-ace2-systemui \
 	treble-overlay-oneplus-ace2v \
 	treble-overlay-oneplus-ace2v-systemui \
+	treble-overlay-oneplus-ace3 \
+	treble-overlay-oneplus-ace3-systemui \
 	treble-overlay-oneplus-acepro \
 	treble-overlay-oneplus-acepro-systemui \
 	treble-overlay-oneplus-n10 \
@@ -157,6 +159,8 @@ PRODUCT_PACKAGES += \
 	treble-overlay-oneplus-nordce-systemui \
 	treble-overlay-oneplus-op10pro \
 	treble-overlay-oneplus-op10pro-systemui \
+	treble-overlay-oneplus-op12 \
+	treble-overlay-oneplus-op12-systemui \
 	treble-overlay-oneplus-op6 \
 	treble-overlay-oneplus-op6t \
 	treble-overlay-oneplus-op6t-systemui \
